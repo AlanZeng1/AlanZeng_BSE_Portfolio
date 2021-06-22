@@ -20,6 +20,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone  
 My first milestone was connecting the L298N motor driver with the arduino and motors, and getting the motors working. At first, I really struggled with getting the motors to work, as I did not understand how the connections between the battery pack, arduino, and motor driver worked. Later on, I learned that the battery pack was supposed to provide energy for the motors/motor driver, and not the arduino. After realizing the problem, I was able to connect the battery pack with the motor driver and get the motors to work.   
 
-[![First Milestone][![Alan's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624389374/video_to_markdown/images/youtube--ICdF0UeNy_s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ICdF0UeNy_s "Alan's First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624389374/video_to_markdown/images/youtube--ICdF0UeNy_s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ICdF0UeNy_s "Alan's First Milestone"){:target="_blank" rel="noopener"}
 
 ![Motor Driver Diagram](https://i0.wp.com/www.teachmemicro.com/wp-content/uploads/2018/03/l298n-arduino-1-scaled.jpg?w=1236)
