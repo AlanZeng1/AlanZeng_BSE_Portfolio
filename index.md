@@ -1,5 +1,5 @@
-﻿# Voice Controlled Robot
-The voice controlled robot is a robot that can be controlled using a person's voice, through the use of an app. The robot is able to move forward, backward, turn left, or turn right, based on what a person says. 
+﻿# WiFi Voice Controlled Robot
+The wifi voice controlled robot is a robot that can be controlled using a person's voice, through the use of an app. The robot is able to move forward, backward, turn left, or turn right. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
