@@ -1,5 +1,5 @@
 ﻿# WiFi Voice Controlled Robot
-The wifi voice controlled robot is a robot that can be controlled using a person's voice, through the use of an app. The robot is able to move forward, backward, turn left, or turn right. This project has 3 main different aspects: coding, app development, and electrical engineering. 
+The wifi voice controlled robot is a robot that can be controlled using a person's voice, through the use of an app. The robot is able to move forward, backward, turn left, or turn right. This project has 3 different aspects: coding, app development, and electrical engineering. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
