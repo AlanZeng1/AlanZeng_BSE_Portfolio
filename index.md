@@ -6,11 +6,14 @@ The wifi voice controlled robot is a robot that can be controlled using a person
 | Alan Zeng | Monta Vista High School | Computer Science | Incoming Sophomore
 
 ![Headstone Image](https://user-images.githubusercontent.com/86128051/124319916-cb8ea080-db2f-11eb-9aba-01323f3ec5e4.JPG)
+
+# Demo Night Video
+[![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1625254996/video_to_markdown/images/youtube--ilxuLSfCmlk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ilxuLSfCmlk "Demo Night")
   
 # Final Milestone
 My final milestone is assembling the robot, and getting all of the different components to work together. I am able to control the robot's movements from my phone, through the app. The buttons in the app are able to control the robot, but I am also able to use my voice as well. One major problem I had during this last step was not having enough energy to power 4 motors at once. I solved this problem by using three seperate power sources. I used a 9V battery, a rechargable battery pack, and 4 additional 1.5V batteries. After connecting three power sources to power the entire robot, the robot is now easily able to move forward, backward, turn left, and turn right.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625255208/video_to_markdown/images/youtube--XCr45KlUi9M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XCr45KlUi9M "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone is creating the app that will eventually control the robot. I designed the layout of the app, as well as programmed the app to be able to send messages to the ESP32, a WiFi microcontroller, which then sends the commands to the L298N motor driver to control the motors. Currently, whenever the buttons in app are pressed, an error message appears. This is most likely due to the ESP32 not being set up yet, so there is no response after pressing the buttons. 
