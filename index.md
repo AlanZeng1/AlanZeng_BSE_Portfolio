@@ -25,6 +25,9 @@ App file: [Voice_Controlled_Robot.zip](https://github.com/AlanZeng1/AlanZeng_BSE
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625082876/video_to_markdown/images/youtube--WbiUeXMx3rQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/WbiUeXMx3rQ "Second Milestone"){:target="_blank" rel="noopener"}
 
+<img width="2550" alt="Screen Shot 2021-07-02 at 12 40 38 PM" src="https://user-images.githubusercontent.com/86128051/124322917-32fb1f00-db35-11eb-9a22-054f1d2e4407.png">
+<img width="2547" alt="Screen Shot 2021-07-02 at 12 40 20 PM" src="https://user-images.githubusercontent.com/86128051/124322922-368ea600-db35-11eb-9be6-88384517c571.png">
+
 # First Milestone  
 My first milestone is connecting the L298N motor driver with the arduino and motors, and getting the motors working. At first, I really struggled with getting the motors to work, as I did not understand how the connections between the battery pack, arduino, and motor driver worked. Later on, I learned that the battery pack was supposed to provide energy for the motors/motor driver, and not the arduino. After realizing the problem, I was able to connect the battery pack with the motor driver and get the motors to work.   
 
