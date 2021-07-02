@@ -18,6 +18,8 @@ My final milestone is assembling the robot, and getting all of the different com
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625255208/video_to_markdown/images/youtube--XCr45KlUi9M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XCr45KlUi9M "Final Milestone"){:target="_blank" rel="noopener"}
 
+![WiFi Voice Controlled Robot Code](https://user-images.githubusercontent.com/86128051/124323209-c3d1fa80-db35-11eb-982b-3b5b66ff61c2.png)
+
 # Second Milestone
 My second milestone is creating the app that will eventually control the robot. I designed the layout of the app, as well as programmed the app to be able to send messages to the ESP32, a WiFi microcontroller, which then sends the commands to the L298N motor driver to control the motors. Currently, whenever the buttons in app are pressed, an error message appears. This is most likely due to the ESP32 not being set up yet, so there is no response after pressing the buttons. 
 
