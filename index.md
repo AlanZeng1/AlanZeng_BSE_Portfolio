@@ -5,7 +5,7 @@ The wifi voice controlled robot is a robot that can be controlled using a person
 |:--:|:--:|:--:|:--:|
 | Alan Zeng | Monta Vista High School | Computer Science | Incoming Sophomore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://user-images.githubusercontent.com/86128051/124319916-cb8ea080-db2f-11eb-9aba-01323f3ec5e4.JPG)
   
 # Final Milestone
 My final milestone is assembling the robot, and getting all of the different components to work together. I am able to control the robot's movements from my phone, through the app. The buttons in the app are able to control the robot, but I am also able to use my voice as well. One major problem I had during this last step was not having enough energy to power 4 motors at once. I solved this problem by using three seperate power sources. I used a 9V battery, a rechargable battery pack, and 4 additional 1.5V batteries. After connecting three power sources to power the entire robot, the robot is now easily able to move forward, backward, turn left, and turn right.
